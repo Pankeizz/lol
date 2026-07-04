@@ -1,0 +1,11 @@
+# Fases del Proyecto
+
+- [ ] Fase 1 - Menú principal
+- [ ] Fase 2 - Sistema de navegación
+- [ ] Fase 3 - Configuración
+- [ ] Fase 4 - Recursos del juego
+- [ ] Fase 5 - Sistema de guardado
+
+...
+
+- [ ] Fase 40 - Optimización final

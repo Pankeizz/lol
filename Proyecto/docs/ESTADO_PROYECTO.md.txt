@@ -1,0 +1,21 @@
+# Estado del Proyecto
+
+Versión: 0.1
+
+Estado:
+Proyecto iniciado.
+
+Fase actual:
+1
+
+Última fase completada:
+Ninguna
+
+Arquitectura:
+MVC
+
+Repositorio:
+GitHub
+
+Pendiente:
+Desarrollar el menú principal.

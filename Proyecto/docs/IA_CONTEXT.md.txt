@@ -1,0 +1,24 @@
+# Contexto para IA
+
+Proyecto:
+Simulador de Vida.
+
+Tecnologías:
+Node.js
+Express
+MySQL
+HTML
+CSS
+JavaScript
+
+Arquitectura:
+MVC
+
+Objetivo:
+Crear un simulador de vida inspirado en Los Sims con genética, profesiones, árbol genealógico y decisiones que afecten varias generaciones.
+
+Estado actual:
+Comenzando la Fase 1.
+
+Reglas:
+Leer REGLAS_PROYECTO.md antes de escribir código.
